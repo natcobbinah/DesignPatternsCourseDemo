@@ -1,0 +1,14 @@
+C:\Users\nah\Desktop\ISITECH COURSES\design_patterns\exercises\02\insurance\obj\Debug\net8.0\insurance.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nah\Desktop\ISITECH COURSES\design_patterns\exercises\02\insurance\obj\Debug\net8.0\insurance.AssemblyInfoInputs.cache
+C:\Users\nah\Desktop\ISITECH COURSES\design_patterns\exercises\02\insurance\obj\Debug\net8.0\insurance.AssemblyInfo.cs
+C:\Users\nah\Desktop\ISITECH COURSES\design_patterns\exercises\02\insurance\obj\Debug\net8.0\insurance.csproj.CoreCompileInputs.cache
+C:\Users\nah\Desktop\ISITECH COURSES\design_patterns\exercises\02\insurance\bin\Debug\net8.0\insurance.exe
+C:\Users\nah\Desktop\ISITECH COURSES\design_patterns\exercises\02\insurance\bin\Debug\net8.0\insurance.deps.json
+C:\Users\nah\Desktop\ISITECH COURSES\design_patterns\exercises\02\insurance\bin\Debug\net8.0\insurance.runtimeconfig.json
+C:\Users\nah\Desktop\ISITECH COURSES\design_patterns\exercises\02\insurance\bin\Debug\net8.0\insurance.dll
+C:\Users\nah\Desktop\ISITECH COURSES\design_patterns\exercises\02\insurance\bin\Debug\net8.0\insurance.pdb
+C:\Users\nah\Desktop\ISITECH COURSES\design_patterns\exercises\02\insurance\obj\Debug\net8.0\insurance.dll
+C:\Users\nah\Desktop\ISITECH COURSES\design_patterns\exercises\02\insurance\obj\Debug\net8.0\refint\insurance.dll
+C:\Users\nah\Desktop\ISITECH COURSES\design_patterns\exercises\02\insurance\obj\Debug\net8.0\insurance.pdb
+C:\Users\nah\Desktop\ISITECH COURSES\design_patterns\exercises\02\insurance\obj\Debug\net8.0\insurance.genruntimeconfig.cache
+C:\Users\nah\Desktop\ISITECH COURSES\design_patterns\exercises\02\insurance\obj\Debug\net8.0\ref\insurance.dll

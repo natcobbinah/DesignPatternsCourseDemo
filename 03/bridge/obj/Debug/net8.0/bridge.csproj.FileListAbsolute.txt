@@ -1,0 +1,14 @@
+C:\Users\nah\Desktop\ISITECH COURSES\design_patterns\exercises\03\bridge\bin\Debug\net8.0\bridge.exe
+C:\Users\nah\Desktop\ISITECH COURSES\design_patterns\exercises\03\bridge\bin\Debug\net8.0\bridge.deps.json
+C:\Users\nah\Desktop\ISITECH COURSES\design_patterns\exercises\03\bridge\bin\Debug\net8.0\bridge.runtimeconfig.json
+C:\Users\nah\Desktop\ISITECH COURSES\design_patterns\exercises\03\bridge\bin\Debug\net8.0\bridge.dll
+C:\Users\nah\Desktop\ISITECH COURSES\design_patterns\exercises\03\bridge\bin\Debug\net8.0\bridge.pdb
+C:\Users\nah\Desktop\ISITECH COURSES\design_patterns\exercises\03\bridge\obj\Debug\net8.0\bridge.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nah\Desktop\ISITECH COURSES\design_patterns\exercises\03\bridge\obj\Debug\net8.0\bridge.AssemblyInfoInputs.cache
+C:\Users\nah\Desktop\ISITECH COURSES\design_patterns\exercises\03\bridge\obj\Debug\net8.0\bridge.AssemblyInfo.cs
+C:\Users\nah\Desktop\ISITECH COURSES\design_patterns\exercises\03\bridge\obj\Debug\net8.0\bridge.csproj.CoreCompileInputs.cache
+C:\Users\nah\Desktop\ISITECH COURSES\design_patterns\exercises\03\bridge\obj\Debug\net8.0\bridge.dll
+C:\Users\nah\Desktop\ISITECH COURSES\design_patterns\exercises\03\bridge\obj\Debug\net8.0\refint\bridge.dll
+C:\Users\nah\Desktop\ISITECH COURSES\design_patterns\exercises\03\bridge\obj\Debug\net8.0\bridge.pdb
+C:\Users\nah\Desktop\ISITECH COURSES\design_patterns\exercises\03\bridge\obj\Debug\net8.0\bridge.genruntimeconfig.cache
+C:\Users\nah\Desktop\ISITECH COURSES\design_patterns\exercises\03\bridge\obj\Debug\net8.0\ref\bridge.dll

@@ -1,0 +1,14 @@
+C:\Users\nah\Desktop\ISITECH COURSES\design_patterns\exercises\01\abstractfactory_exercise\obj\Debug\net8.0\abstractfactory_exercise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nah\Desktop\ISITECH COURSES\design_patterns\exercises\01\abstractfactory_exercise\obj\Debug\net8.0\abstractfactory_exercise.AssemblyInfoInputs.cache
+C:\Users\nah\Desktop\ISITECH COURSES\design_patterns\exercises\01\abstractfactory_exercise\obj\Debug\net8.0\abstractfactory_exercise.AssemblyInfo.cs
+C:\Users\nah\Desktop\ISITECH COURSES\design_patterns\exercises\01\abstractfactory_exercise\obj\Debug\net8.0\abstractfactory_exercise.csproj.CoreCompileInputs.cache
+C:\Users\nah\Desktop\ISITECH COURSES\design_patterns\exercises\01\abstractfactory_exercise\bin\Debug\net8.0\abstractfactory_exercise.exe
+C:\Users\nah\Desktop\ISITECH COURSES\design_patterns\exercises\01\abstractfactory_exercise\bin\Debug\net8.0\abstractfactory_exercise.deps.json
+C:\Users\nah\Desktop\ISITECH COURSES\design_patterns\exercises\01\abstractfactory_exercise\bin\Debug\net8.0\abstractfactory_exercise.runtimeconfig.json
+C:\Users\nah\Desktop\ISITECH COURSES\design_patterns\exercises\01\abstractfactory_exercise\bin\Debug\net8.0\abstractfactory_exercise.dll
+C:\Users\nah\Desktop\ISITECH COURSES\design_patterns\exercises\01\abstractfactory_exercise\bin\Debug\net8.0\abstractfactory_exercise.pdb
+C:\Users\nah\Desktop\ISITECH COURSES\design_patterns\exercises\01\abstractfactory_exercise\obj\Debug\net8.0\abstractfactory_exercise.dll
+C:\Users\nah\Desktop\ISITECH COURSES\design_patterns\exercises\01\abstractfactory_exercise\obj\Debug\net8.0\refint\abstractfactory_exercise.dll
+C:\Users\nah\Desktop\ISITECH COURSES\design_patterns\exercises\01\abstractfactory_exercise\obj\Debug\net8.0\abstractfactory_exercise.pdb
+C:\Users\nah\Desktop\ISITECH COURSES\design_patterns\exercises\01\abstractfactory_exercise\obj\Debug\net8.0\abstractfactory_exercise.genruntimeconfig.cache
+C:\Users\nah\Desktop\ISITECH COURSES\design_patterns\exercises\01\abstractfactory_exercise\obj\Debug\net8.0\ref\abstractfactory_exercise.dll
