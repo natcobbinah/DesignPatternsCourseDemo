@@ -19,9 +19,6 @@ Each basic policy serves as a template and can be customised to create customer-
 Questions :
 
 1. What design pattern would enable new contracts to be created efficiently without having to recreate each contract from scratch?
-Answer:
-The Prototype Pattern is ideal for this scenario. This pattern allows the creation of new objects by copying existing objects (prototypes), enabling efficient creation and customization without building each contract from scratch.
-
 
 2. Model the solution using a UML class diagram which should include:
 

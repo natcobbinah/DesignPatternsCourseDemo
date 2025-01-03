@@ -1,0 +1,15 @@
+C:\Users\nah\Desktop\ISITECH COURSES\design_patterns\exercises\01_exam\report\bin\Debug\net8.0\report.exe
+C:\Users\nah\Desktop\ISITECH COURSES\design_patterns\exercises\01_exam\report\bin\Debug\net8.0\report.deps.json
+C:\Users\nah\Desktop\ISITECH COURSES\design_patterns\exercises\01_exam\report\bin\Debug\net8.0\report.runtimeconfig.json
+C:\Users\nah\Desktop\ISITECH COURSES\design_patterns\exercises\01_exam\report\bin\Debug\net8.0\report.dll
+C:\Users\nah\Desktop\ISITECH COURSES\design_patterns\exercises\01_exam\report\bin\Debug\net8.0\report.pdb
+C:\Users\nah\Desktop\ISITECH COURSES\design_patterns\exercises\01_exam\report\obj\Debug\net8.0\report.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nah\Desktop\ISITECH COURSES\design_patterns\exercises\01_exam\report\obj\Debug\net8.0\report.AssemblyInfoInputs.cache
+C:\Users\nah\Desktop\ISITECH COURSES\design_patterns\exercises\01_exam\report\obj\Debug\net8.0\report.AssemblyInfo.cs
+C:\Users\nah\Desktop\ISITECH COURSES\design_patterns\exercises\01_exam\report\obj\Debug\net8.0\report.csproj.CoreCompileInputs.cache
+C:\Users\nah\Desktop\ISITECH COURSES\design_patterns\exercises\01_exam\report\obj\Debug\net8.0\report.sourcelink.json
+C:\Users\nah\Desktop\ISITECH COURSES\design_patterns\exercises\01_exam\report\obj\Debug\net8.0\report.dll
+C:\Users\nah\Desktop\ISITECH COURSES\design_patterns\exercises\01_exam\report\obj\Debug\net8.0\refint\report.dll
+C:\Users\nah\Desktop\ISITECH COURSES\design_patterns\exercises\01_exam\report\obj\Debug\net8.0\report.pdb
+C:\Users\nah\Desktop\ISITECH COURSES\design_patterns\exercises\01_exam\report\obj\Debug\net8.0\report.genruntimeconfig.cache
+C:\Users\nah\Desktop\ISITECH COURSES\design_patterns\exercises\01_exam\report\obj\Debug\net8.0\ref\report.dll

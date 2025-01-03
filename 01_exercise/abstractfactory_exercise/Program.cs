@@ -1,4 +1,4 @@
-class Program
+﻿class Program
 {
     static void Main(string[] args)
     {
@@ -16,10 +16,10 @@ class Program
         DocumentBancaireFactory factoryProfessionnel = new ProfessionnelFactory();
         IBancaireRIB ribProfessionnel = factoryProfessionnel.CreateRIB();
         IBancaireAttestation attestationProfessionnel = factoryProfessionnel.CreateAttestation();
-        IAttestationFiscale attestation
-        
+        IAttestationFiscale attestationProfessional = factoryProfessionnel.createTaxFile();
 
         Console.WriteLine(ribProfessionnel.GenererRIB());
         Console.WriteLine(attestationProfessionnel.GenererAttestation());
+        Console.WriteLine(attestationProfessional.GenererAttestationFiscale());
     }
 }
