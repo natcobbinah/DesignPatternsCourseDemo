@@ -1,16 +1,15 @@
-class RapportAnonyme : RapportDecorator
+using System;
+public class RapportAnonyme : RapportDecorator
 {
-    public RapportAnonyme(IRapport irapport) : base(irapport)
+    public RapportAnonyme(IRapport rapport) : base(rapport) { }
+
+    public override string GetContenu()
     {
+        return rapport.GetContenu().Replace("identifiant", "***").Replace("password", "***");
     }
 
-    public virtual string GetAuteur(string auteur)
+    public override string GetAuteur()
     {
-        return base.GetAuteur(auteur) + "anonyme";
-    }
-
-    public virtual string GetContenu(string contenu)
-    {
-        return base.GetContenu(contenu) + "anonyme";
+        return "ANONYME";
     }
 }

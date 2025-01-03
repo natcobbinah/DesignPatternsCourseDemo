@@ -1,6 +1,6 @@
+using System;
 public interface IRapport
 {
-    string GetContenu(string contenu);
-
-    string GetAuteur(string auteur);
+    string GetContenu();
+    string GetAuteur();
 }

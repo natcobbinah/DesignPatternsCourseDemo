@@ -1,12 +1,23 @@
-class RapportIncident : IRapport
+using System;
+
+public class RapportIncident : IRapport
 {
-    public string GetAuteur(string auteur)
+    private string contenu;
+    private string auteur;
+
+    public RapportIncident(string contenu, string auteur)
     {
-        return $"{auteur}  incident";
+        this.contenu = contenu;
+        this.auteur = auteur;
     }
 
-    public string GetContenu(string contenu)
+    public string GetContenu()
     {
-        return $"{contenu}  incident";
+        return contenu;
+    }
+
+    public string GetAuteur()
+    {
+        return auteur;
     }
 }

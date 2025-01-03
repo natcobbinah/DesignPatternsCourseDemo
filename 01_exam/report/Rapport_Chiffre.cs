@@ -1,16 +1,11 @@
-class RapportChiffre : RapportDecorator
+using System;
+public class RapportChiffre : RapportDecorator
 {
-    public RapportChiffre(IRapport irapport) : base(irapport)
-    {
-    }
+    public RapportChiffre(IRapport rapport) : base(rapport) { }
 
-    public virtual string GetAuteur(string auteur)
+    public override string GetContenu()
     {
-        return base.GetAuteur(auteur) + "chiffre";
-    }
-
-    public virtual string GetContenu(string contenu)
-    {
-        return base.GetContenu(contenu) + "chiffre";
+        return Convert.ToBase64String(System.Text.Encoding.UTF8.GetBytes(rapport.GetContenu()));
     }
 }
+

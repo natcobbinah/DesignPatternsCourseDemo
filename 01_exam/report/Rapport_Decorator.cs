@@ -1,17 +1,20 @@
+using System;
 public abstract class RapportDecorator : IRapport
 {
-    protected IRapport irapport;
-    public RapportDecorator(IRapport irapport)
+    protected IRapport rapport;
+
+    public RapportDecorator(IRapport rapport)
     {
-        this.irapport = irapport;
-    }
-    public string GetAuteur(string auteur)
-    {
-        return irapport.GetAuteur(auteur);
+        this.rapport = rapport;
     }
 
-    public string GetContenu(string contenu)
+    public virtual string GetContenu()
     {
-        return irapport.GetContenu(contenu);
+        return rapport.GetContenu();
+    }
+
+    public virtual string GetAuteur()
+    {
+        return rapport.GetAuteur();
     }
 }

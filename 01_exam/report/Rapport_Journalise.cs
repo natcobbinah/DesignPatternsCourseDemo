@@ -1,16 +1,13 @@
-class RapportJournalise : RapportDecorator
+using System;
+
+public class RapportJournalise : RapportDecorator
 {
-    public RapportJournalise(IRapport irapport) : base(irapport)
-    {
-    }
+    public RapportJournalise(IRapport rapport) : base(rapport) { }
 
-    public virtual string GetAuteur(string auteur)
+    public override string GetContenu()
     {
-        return base.GetAuteur(auteur) + "journalise";
-    }
-
-    public virtual string GetContenu(string contenu)
-    {
-        return base.GetContenu(contenu) + "journalise";
+        string contenu = rapport.GetContenu();
+        Console.WriteLine($"[LOG] Accès au rapport à {DateTime.Now}");
+        return contenu;
     }
 }

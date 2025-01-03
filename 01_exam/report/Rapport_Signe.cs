@@ -1,16 +1,10 @@
-class RapportSigne : RapportDecorator
+using System;
+public class RapportSigne : RapportDecorator
 {
-    public RapportSigne(IRapport irapport) : base(irapport)
-    {
-    }
+    public RapportSigne(IRapport rapport) : base(rapport) { }
 
-    public virtual string GetAuteur(string auteur)
+    public override string GetContenu()
     {
-        return base.GetAuteur(auteur) + "signe";
-    }
-
-    public virtual string GetContenu(string contenu)
-    {
-        return base.GetContenu(contenu) + "signe";
+        return rapport.GetContenu() + $"\nSigné par: {rapport.GetAuteur()}";
     }
 }
